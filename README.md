@@ -28,7 +28,7 @@ I'm currently diving into **JavaScript** to enhance my front-end skills and plan
 - **freeCodeCamp Responsive Web Design Certification**: [Link to Certification](https://www.freecodecamp.org/certification/your-username/responsive-web-design)
 
 ## 🌟 Featured Project
-- **Landing Page Project:** A simple and responsive landing page built using HTML and CSS. [Check it out here](https://github.com/your-username/landing-page-project)
+- **Landing Page Project:** A simple and responsive landing page built using HTML and CSS. [Check it out here](https://github.com/niquimi/landing-page)
 
 ## ⚡ Fun Facts
 When I'm not coding, you might find me exploring Barcelona, trying out new recipes, or playing video games.
