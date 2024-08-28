@@ -16,9 +16,10 @@ Here are some of the technologies and tools I've been working with:
   ![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![C++ Badge](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   
 - **Development:**
-  - Web development with HTML & CSS.
+  - Web development with HTML, CSS & JS.
   - Basic app development.
   
 ## 🌱 What I'm Learning
@@ -28,7 +29,7 @@ I'm currently diving into **JavaScript** to enhance my front-end skills and plan
 - **freeCodeCamp Responsive Web Design Certification**: [Link to Certification](https://www.freecodecamp.org/certification/niquimi/responsive-web-design)
 
 ## 🌟 Featured Project
-- **Landing Page Project:** A simple and responsive landing page built using HTML and CSS. [Check it out here](https://github.com/niquimi/landing-page)
+- **Personal Portfolio:** A simple portfolio to show some of my projects. [Check it out here](https://niquimi.github.io/personal-portfolio/)
 
 ## ⚡ Fun Facts
 When I'm not coding, you might find me in the gym, trying out new recipes, or playing video games.
