@@ -27,6 +27,7 @@ I'm currently diving into **JavaScript** to enhance my front-end skills and plan
 
 ### 🏆 Certification
 - **freeCodeCamp Responsive Web Design Certification**: [Link to Certification](https://www.freecodecamp.org/certification/niquimi/responsive-web-design)
+- **freeCodeCamp JavaScript Algorithms and Data Structures Certification**: [Link to Certification](https://www.freecodecamp.org/certification/niquimi/javascript-algorithms-and-data-structures-v8)
 
 ## 🌟 Featured Project
 - **Personal Portfolio:** A simple portfolio to show some of my projects. [Check it out here](https://niquimi.github.io/personal-portfolio/)
