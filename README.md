@@ -19,15 +19,24 @@ Here are some of the technologies and tools I've been working with:
   ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   
 - **Development:**
-  - Web development with HTML, CSS & JS.
+  - Web development with HTML, CSS & JavaScript.
   - Basic app development.
-  
-## 🌱 What I'm Learning
-I'm currently diving into **JavaScript** to enhance my front-end skills and plan to explore backend development soon. My goal is to become a full-stack developer capable of building complete web applications from scratch.
+  - Front-end development with **React**, **Redux** and other libraries.
 
-### 🏆 Certification
+## 🌱 What I'm Learning
+I'm currently diving into backend development. My goal is to become a full-stack developer capable of building complete web applications from scratch.
+
+### 🏆 Certifications
 - **freeCodeCamp Responsive Web Design Certification**: [Link to Certification](https://www.freecodecamp.org/certification/niquimi/responsive-web-design)
 - **freeCodeCamp JavaScript Algorithms and Data Structures Certification**: [Link to Certification](https://www.freecodecamp.org/certification/niquimi/javascript-algorithms-and-data-structures-v8)
+- **freeCodeCamp Front End Development Libraries Certification**: [Link to Certification](https://www.freecodecamp.org/certification/niquimi/front-end-development-libraries)
+
+### Technologies Learned in Front End Libraries:
+  - **React**: Building dynamic web interfaces.
+  - **Redux**: Managing state in complex applications.
+  - **Bootstrap**: For responsive and mobile-first web design.
+  - **jQuery**: Simplifying DOM manipulation.
+  - **SASS**: CSS preprocessor for more efficient stylesheets.
 
 ## 🌟 Featured Project
 - **Personal Portfolio:** A simple portfolio to show some of my projects. [Check it out here](https://niquimi.github.io/personal-portfolio/)
@@ -38,4 +47,3 @@ When I'm not coding, you might find me in the gym, trying out new recipes, or pl
 ---
 
 Feel free to reach out if you want to collaborate on a project or just have a chat about tech!
-
