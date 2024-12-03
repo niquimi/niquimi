@@ -30,6 +30,7 @@ I'm currently diving into backend development. My goal is to become a full-stack
 - **freeCodeCamp Responsive Web Design Certification**: [Link to Certification](https://www.freecodecamp.org/certification/niquimi/responsive-web-design)
 - **freeCodeCamp JavaScript Algorithms and Data Structures Certification**: [Link to Certification](https://www.freecodecamp.org/certification/niquimi/javascript-algorithms-and-data-structures-v8)
 - **freeCodeCamp Front End Development Libraries Certification**: [Link to Certification](https://www.freecodecamp.org/certification/niquimi/front-end-development-libraries)
+- **freeCodeCamp Back End Development and APIs**: [Link to Certification](https://www.freecodecamp.org/certification/niquimi/back-end-development-and-apis)
 
 ### Technologies Learned in Front End Libraries:
   - **React**: Building dynamic web interfaces.
