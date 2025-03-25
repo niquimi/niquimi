@@ -1,50 +1,47 @@
-# Hi there, I'm Nicolas Garcia! 👋
+# Hi there, I'm Nicolas Garcia! 👋  
 
-**Welcome to my GitHub profile!**
+**Welcome to my GitHub profile!**  
 
-I'm a computer engineering student based in Barcelona with a passion for web and app development. I'm constantly learning and expanding my skills to build better and more efficient digital solutions.
+I'm a **computer engineering student** based in **Barcelona**, passionate about **web development, app development, and machine learning**. I love building digital solutions and constantly learning to improve my skills. I'm also deeply interested in **space exploration** and **Formula 1**, always excited about the intersection of technology and performance!  
 
-## 🚀 About Me
-- 🎓 **Education:** Currently pursuing a degree in Computer Engineering, 2nd year (UPC).
-- 🌍 **Location:** Barcelona, Spain.
-- 📧 **Contact:** [garciaosorionicolas@gmail.com](mailto:garciaosorionicolas@gmail.com).
+## 🚀 About Me  
+- 🎓 **Education:** 1st-year **Computer Engineering student** at **UOC**.  
+- 🌍 **Location:** Barcelona, Spain.  
+- 📧 **Contact:** [garciaosorionicolas@gmail.com](mailto:garciaosorionicolas@gmail.com).  
 
-## 🛠️ Technologies & Tools
-Here are some of the technologies and tools I've been working with:
+## 🛠️ Technologies & Tools  
 
-- **Languages:** 
-  ![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![C++ Badge](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  
-- **Development:**
-  - Web development with HTML, CSS & JavaScript.
-  - Basic app development.
-  - Front-end development with **React**, **Redux** and other libraries.
+### **Programming Languages:**  
+![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![C++ Badge](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
 
-## 🌱 What I'm Learning
-I'm currently diving into backend development. My goal is to become a full-stack developer capable of building complete web applications from scratch.
+### **Development & Tools:**  
+- **Front-End:** **React, Redux, Bootstrap, jQuery, SASS**.  
+- **Back-End:** **Node.js, Express.js, MongoDB**.  
+- **Other:** Git/GitHub, REST APIs, SQL.  
 
-### 🏆 Certifications
-- **freeCodeCamp Responsive Web Design Certification**: [Link to Certification](https://www.freecodecamp.org/certification/niquimi/responsive-web-design)
-- **freeCodeCamp JavaScript Algorithms and Data Structures Certification**: [Link to Certification](https://www.freecodecamp.org/certification/niquimi/javascript-algorithms-and-data-structures-v8)
-- **freeCodeCamp Front End Development Libraries Certification**: [Link to Certification](https://www.freecodecamp.org/certification/niquimi/front-end-development-libraries)
-- **freeCodeCamp Back End Development and APIs**: [Link to Certification](https://www.freecodecamp.org/certification/niquimi/back-end-development-and-apis)
+## 🌱 What I'm Learning  
+- **Machine Learning & AI** 🤖: Exploring the fundamentals of ML, data science, and AI applications.  
+- **Full-Stack Development** 💻: Expanding my knowledge in **databases, APIs, and scalable architectures**.  
 
-### Technologies Learned in Front End Libraries:
-  - **React**: Building dynamic web interfaces.
-  - **Redux**: Managing state in complex applications.
-  - **Bootstrap**: For responsive and mobile-first web design.
-  - **jQuery**: Simplifying DOM manipulation.
-  - **SASS**: CSS preprocessor for more efficient stylesheets.
+## 🏆 Certifications  
+- **[Responsive Web Design - freeCodeCamp](https://www.freecodecamp.org/certification/niquimi/responsive-web-design)**  
+- **[JavaScript Algorithms & Data Structures - freeCodeCamp](https://www.freecodecamp.org/certification/niquimi/javascript-algorithms-and-data-structures-v8)**  
+- **[Front-End Development Libraries - freeCodeCamp](https://www.freecodecamp.org/certification/niquimi/front-end-development-libraries)**  
+- **[Back-End Development and APIs - freeCodeCamp](https://www.freecodecamp.org/certification/niquimi/back-end-development-and-apis)**  
 
-## 🌟 Featured Project
-- **Personal Portfolio:** A simple portfolio to show some of my projects. [Check it out here](https://niquimi.github.io/personal-portfolio/)
+## 🌟 Featured Project  
+🔹 **Study Calendar:** A calendar app to track my study sessions efficiently.  
+[📅 Check it out here!](https://niquimi.github.io/study-calendar/)  
 
-## ⚡ Fun Facts
-When I'm not coding, you might find me in the gym, trying out new recipes, or playing video games.
+## ⚡ Fun Facts  
+- 🚀 I love discussing **space technology** and how AI is shaping the future of space exploration.  
+- 🏎️ Huge **Formula 1** fan—always fascinated by the cutting-edge engineering in motorsports.  
+- 💪 When I’m not coding, I’m at the gym, trying out new recipes, or gaming.  
 
 ---
 
-Feel free to reach out if you want to collaborate on a project or just have a chat about tech!
+### 💡 Let's Connect!  
+Feel free to reach out if you want to collaborate on a project or just have a chat about **tech, machine learning, space, or F1**!  
