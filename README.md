@@ -31,7 +31,7 @@ I'm a **computer engineering student** based in **Barcelona**, passionate about 
 
 ## 🌟 Featured Project  
 🔹 **Study Calendar:** A calendar app to track my study sessions efficiently.  
-[📅 Check it out here!](https://niquimi.github.io/study-calendar/)  
+[📅 Check it out here!](https://github.com/niquimi/study-calendar/)  
 
 ## ⚡ Fun Facts  
 - 🚀 I love discussing **space technology** and how AI is shaping the future of space exploration.  
