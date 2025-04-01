@@ -1,43 +1,41 @@
-# ¡Hola! Soy Nicolas Garcia 👋  
+# Hi there, I'm Nicolas Garcia! 👋  
 
-**¡Bienvenido a mi perfil de GitHub!**  
+**Welcome to my GitHub profile!**  
 
-Soy un estudiante de ingeniería informática en Barcelona, apasionado por el desarrollo web, el desarrollo de aplicaciones y la inteligencia artificial. Me encanta crear soluciones digitales y aprender constantemente para mejorar mis habilidades. También me fascina la exploración espacial y la Fórmula 1, siempre intrigado por la combinación de tecnología y alto rendimiento.
+I'm a **computer engineering student** based in **Barcelona**, passionate about **web development, app development, and machine learning**. I love building digital solutions and constantly learning to improve my skills. I'm also deeply interested in **space exploration** and **Formula 1**, always excited about the intersection of technology and performance!  
 
-## 🚀 Sobre mí  
-- 🎓 **Educación:** Estudiante de **1er año de Ingeniería Informática** en la **UOC**.  
-- 🌍 **Ubicación:** Barcelona, España.  
-- 📧 **Contacto:** [garciaosorionicolas@gmail.com](mailto:garciaosorionicolas@gmail.com).  
+## 🚀 About Me  
+- 🎓 **Education:** 1st-year **Computer Engineering student** at **UOC**.  
+- 🌍 **Location:** Barcelona, Spain.  
+- 📧 **Contact:** [garciaosorionicolas@gmail.com](mailto:garciaosorionicolas@gmail.com).  
 
-## 🛠️ Tecnologías y herramientas  
+## 🛠️ Technologies & Tools  
 
-### **Lenguajes de programación:**  
-![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![C++ Badge](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+### **Programming Languages:**  
+![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)  ![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![C++ Badge](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
 
-### **Desarrollo y herramientas:**  
+### **Development & Tools:**  
 - **Front-End:** **React, Redux, Bootstrap, jQuery, SASS**.  
 - **Back-End:** **Node.js, Express.js, MongoDB**.  
-- **Otros:** Git/GitHub, REST APIs, SQL.  
+- **Other:** Git/GitHub, REST APIs, SQL.  
 
-## 🌱 Lo que estoy aprendiendo  
-- **Inteligencia Artificial y Machine Learning** 🤖: Explorando los fundamentos de ML y la ciencia de datos.  
-- **Desarrollo Full-Stack** 💻: Ampliando mis conocimientos en **bases de datos, APIs y arquitecturas escalables**.  
+## 🌱 What I'm Learning  
+- **Machine Learning & AI** 🤖: Exploring the fundamentals of ML, data science, and AI applications.  
+- **Full-Stack Development** 💻: Expanding my knowledge in **databases, APIs, and scalable architectures**.  
 
-## 🏆 Certificaciones  
+## 🏆 Certifications  
 - **[Responsive Web Design - freeCodeCamp](https://www.freecodecamp.org/certification/niquimi/responsive-web-design)**  
 - **[JavaScript Algorithms & Data Structures - freeCodeCamp](https://www.freecodecamp.org/certification/niquimi/javascript-algorithms-and-data-structures-v8)**  
 - **[Front-End Development Libraries - freeCodeCamp](https://www.freecodecamp.org/certification/niquimi/front-end-development-libraries)**  
 - **[Back-End Development and APIs - freeCodeCamp](https://www.freecodecamp.org/certification/niquimi/back-end-development-and-apis)**  
 
-## ⚡ Datos Curiosos  
-- 🚀 Me encanta hablar sobre **tecnología espacial** y cómo la IA está moldeando el futuro de la exploración espacial.  
-- 🏎️ Apasionado de la Fórmula 1, siempre fascinado por la innovación en el automovilismo.
-- 💪 Cuando no estoy programando, estoy en el gimnasio, probando nuevas recetas o jugando videojuegos.  
+
+## ⚡ Fun Facts  
+- 🚀 I love discussing **space technology** and how AI is shaping the future of space exploration.  
+- 🏎️ Huge **Formula 1** fan—always fascinated by the cutting-edge engineering in motorsports.  
+- 💪 When I’m not coding, I’m at the gym, trying out new recipes, or gaming.  
 
 ---
 
-### 💡 ¡Conectemos!  
-No dudes en contactarme si quieres colaborar en un proyecto o simplemente charlar sobre **tecnología, IA, espacio o F1**.  
+### 💡 Let's Connect!  
+Feel free to reach out if you want to collaborate on a project or just have a chat about **tech, machine learning, space, or F1**!  
