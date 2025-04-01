@@ -2,7 +2,7 @@
 
 **¡Bienvenido a mi perfil de GitHub!**  
 
-Soy un **estudiante de ingeniería informática** con sede en **Barcelona**, apasionado por el **desarrollo web, el desarrollo de aplicaciones y el aprendizaje automático**. Me encanta construir soluciones digitales y aprender constantemente para mejorar mis habilidades. También me interesa profundamente la **exploración espacial** y la **Fórmula 1**, siempre emocionado por la intersección entre tecnología y rendimiento.  
+Soy un estudiante de ingeniería informática en Barcelona, apasionado por el desarrollo web, el desarrollo de aplicaciones y la inteligencia artificial. Me encanta crear soluciones digitales y aprender constantemente para mejorar mis habilidades. También me fascina la exploración espacial y la Fórmula 1, siempre intrigado por la combinación de tecnología y alto rendimiento.
 
 ## 🚀 Sobre mí  
 - 🎓 **Educación:** Estudiante de **1er año de Ingeniería Informática** en la **UOC**.  
@@ -23,7 +23,7 @@ Soy un **estudiante de ingeniería informática** con sede en **Barcelona**, apa
 - **Otros:** Git/GitHub, REST APIs, SQL.  
 
 ## 🌱 Lo que estoy aprendiendo  
-- **Aprendizaje Automático & IA** 🤖: Explorando los fundamentos de ML, ciencia de datos y aplicaciones de IA.  
+- **Inteligencia Artificial y Machine Learning** 🤖: Explorando los fundamentos de ML y la ciencia de datos.  
 - **Desarrollo Full-Stack** 💻: Ampliando mis conocimientos en **bases de datos, APIs y arquitecturas escalables**.  
 
 ## 🏆 Certificaciones  
@@ -32,16 +32,12 @@ Soy un **estudiante de ingeniería informática** con sede en **Barcelona**, apa
 - **[Front-End Development Libraries - freeCodeCamp](https://www.freecodecamp.org/certification/niquimi/front-end-development-libraries)**  
 - **[Back-End Development and APIs - freeCodeCamp](https://www.freecodecamp.org/certification/niquimi/back-end-development-and-apis)**  
 
-## 🌟 Proyecto Destacado  
-🔹 **Study Calendar:** Una aplicación de calendario para realizar un seguimiento eficiente de mis sesiones de estudio.  
-[📅 ¡Échale un vistazo aquí!](https://github.com/niquimi/study-calendar/)  
-
 ## ⚡ Datos Curiosos  
 - 🚀 Me encanta hablar sobre **tecnología espacial** y cómo la IA está moldeando el futuro de la exploración espacial.  
-- 🏎️ Gran fanático de la **Fórmula 1**, siempre fascinado por la ingeniería de vanguardia en el automovilismo.  
+- 🏎️ Apasionado de la Fórmula 1, siempre fascinado por la innovación en el automovilismo.
 - 💪 Cuando no estoy programando, estoy en el gimnasio, probando nuevas recetas o jugando videojuegos.  
 
 ---
 
 ### 💡 ¡Conectemos!  
-No dudes en contactarme si quieres colaborar en un proyecto o simplemente charlar sobre **tecnología, aprendizaje automático, espacio o F1**.  
+No dudes en contactarme si quieres colaborar en un proyecto o simplemente charlar sobre **tecnología, IA, espacio o F1**.  
